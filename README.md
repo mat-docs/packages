@@ -17,9 +17,15 @@ Nuget package repository for Mclaren Applied, a valid license is required to use
 
 ![image](https://user-images.githubusercontent.com/71443454/114561355-68464e00-9c65-11eb-8125-30be5ff038c9.png)
 
-On Windows machines, the credentials are stored within Credential Manager. If you encounter problems authenticating and need Visual Studio to re-authenticate using different credentials, the saved entry can be removed from:
+On Windows machines, the credentials are stored within Credential Manager. If you encounter problems authenticating and need Visual Studio to re-authenticate using different credentials, the saved entry(s) can be removed from:
+
+Under "Windows Credentials" section:
 
 ![image](https://user-images.githubusercontent.com/71443454/115026664-ad16f280-9eba-11eb-96ab-9d41004c645f.png)
+
+Under "Generic Credentials" section:
+
+![image](https://user-images.githubusercontent.com/71443454/115031148-c2dae680-9ebf-11eb-88dc-b42a3ed68e26.png)
 
 ## Notes for users currently using Bintray
 
