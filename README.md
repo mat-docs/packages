@@ -27,7 +27,7 @@ Under "Generic Credentials" section:
 
 ![image](https://user-images.githubusercontent.com/71443454/115031148-c2dae680-9ebf-11eb-88dc-b42a3ed68e26.png)
 
-Visual Studio offers the best browsing experience for NuGet packages; when browsing via Github make sure no filters are applied so all pacakages are displayed.
+Visual Studio offers the best browsing experience for NuGet packages; when browsing via Github make sure no filters are applied so all packages are displayed.
 
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/520d371a-228e-4fb5-960f-1c2a9f5a2379">
 
