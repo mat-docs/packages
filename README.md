@@ -27,6 +27,10 @@ Under "Generic Credentials" section:
 
 ![image](https://user-images.githubusercontent.com/71443454/115031148-c2dae680-9ebf-11eb-88dc-b42a3ed68e26.png)
 
+Visual Studio offers the best browsing experience for NuGet packages; when browsing via Github make sure no filters are applied so all pacakages are displayed.
+
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/520d371a-228e-4fb5-960f-1c2a9f5a2379">
+
 ## Notes for users currently using Bintray
 
 The current Bintray repository will be switched off on 01-May-2021. If you have previously used Bintray to add packages to your project, you don't need to add them again from this repository, they will continue to work as expected. However, it is strongly advised to switch to the new repository now so you can receive future updates to packages when they are released.
