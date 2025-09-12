@@ -1,6 +1,6 @@
-# Mclaren Applied Nuget Repository
+# Motion Applied Nuget Repository
 
-Nuget package repository for Mclaren Applied, a valid license is required to use these libraries. If you need a license, please speak to [MA customer support](https://mclarenappliedtechnologies.zendesk.com/hc/en-us/categories/360000363854-ATLAS-and-SQLRace).
+Nuget package repository for Motion Applied, a valid license is required to use these libraries. If you need a license, please speak to [MA customer support](https://mclarenappliedtechnologies.zendesk.com/hc/en-us/categories/360000363854-ATLAS-and-SQLRace).
 
 ## Steps to connect from Visual Studio
 
